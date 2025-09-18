@@ -1,0 +1,22 @@
+html {
+  color-scheme: dark;
+}
+
+body {
+  font-family: "EB Garamond", serif;
+}
+
+.hogwarts-bg {
+  background-color: #0f172a; /* bg-slate-900 */
+  background-image:
+    radial-gradient(circle at 15% 50%, rgba(16, 185, 129, 0.05), transparent 20%),
+    radial-gradient(circle at 85% 30%, rgba(59, 130, 246, 0.05), transparent 20%),
+    radial-gradient(circle at 50% 80%, rgba(252, 211, 77, 0.05), transparent 20%);
+}
+
+/* For a more thematic, magical font if needed */
+.font-mega {
+  font-family: "EB Garamond", serif;
+  font-weight: 800;
+  letter-spacing: 0.05em;
+}
